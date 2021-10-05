@@ -1,6 +1,7 @@
 {
   "name": "@neurolake/eslint-config",
   "license": "MIT",
+  "version": "1.0.0",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.32.0",
     "@typescript-eslint/parser": "^4.32.0",
