@@ -49,5 +49,7 @@ module.exports = {
       2, 
       { caseSensitive: false },
     ],
+    'react/jsx-uses-react': 'off',
+    'react/react-in-jsx-scope': 'off',
   },
 };
